@@ -39,4 +39,4 @@ texlive-langcyrillic
 
 ## Если нашли ошибки или прочую хрень
 
-Напишите мне в [вк](vk.com/exesa_ligno)
+Напишите мне в [вк](https://vk.com/exesa_ligno)

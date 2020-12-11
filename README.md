@@ -3,7 +3,7 @@
 ## Вкратце
 
 ```
-git clone https://github.com/exesaLigno/PhysPrac_referat ref
+git clone https://github.com/exesaLigno/PhysPrac_article ref
 cd ref
 pdflatex article.tex
 ```
